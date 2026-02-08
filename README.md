@@ -8,16 +8,16 @@ Ideal para uso pessoal e também como **projeto de portfólio**.
 
 ---
 
-## 📌 Visão geral
+##  Visão geral
 
 O **IR Planner** centraliza os principais dados usados na declaração, reduzindo retrabalho e evitando erros comuns de preenchimento.  
 A ferramenta foi construída no Excel com **validações**, **formatação automática**, **cálculos**, **hiperlinks** e **navegação por botões**.
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
-### ✅ Interface e navegação
+###  Interface e navegação
 - Menu lateral com acesso rápido às seções:
   - **Titular**
   - **Informes**
@@ -25,11 +25,11 @@ A ferramenta foi construída no Excel com **validações**, **formatação autom
 - Botões de navegação (inclui **Próximo** e **Anterior**).
 - Design moderno (tema escuro + verde premium), pensado para uso diário.
 
-### ✅ Proteção e segurança de edição
+###  Proteção e segurança de edição
 - Planilha **protegida** para evitar alterações em áreas que não precisam ser editadas.
 - Usuário preenche apenas os campos necessários (demais áreas ficam bloqueadas).
 
-### ✅ Validações e padronização
+###  Validações e padronização
 - Campos com **validação de dados** para reduzir erros de digitação.
 - Padronização automática de formatos:
   - **CPF**
@@ -38,13 +38,13 @@ A ferramenta foi construída no Excel com **validações**, **formatação autom
   - **Valores (R$)**
 - Lista de **bancos válidos** com validação (seleção guiada).
 
-### ✅ Cálculos e automações
+###  Cálculos e automações
 - Totais automáticos (ex.: soma de valores por bancos/entradas).
 - Organização para anexos/controle de comprovantes.
 
 ---
 
-## 🧩 Estrutura da planilha
+##  Estrutura da planilha
 
 ### 1) Dados do Titular
 Campos para cadastro de pessoa física e informações essenciais:
@@ -68,7 +68,7 @@ Tabela para entradas mês a mês:
 
 ---
 
-## 🛠️ Como usar
+##  Como usar
 
 1. Baixe o arquivo `.xlsx` deste repositório.
 2. Abra no Excel (recomendado: Microsoft Excel Desktop).
@@ -82,29 +82,3 @@ Tabela para entradas mês a mês:
 
 ---
 
-## ✅ Requisitos
-
-- Microsoft Excel (Windows/Mac).  
-- Recomendado: Excel 2016+ (ou Microsoft 365) para melhor compatibilidade com validações e elementos visuais.
-
----
-
-## 📷 Preview
-
-Imagens do projeto podem ser encontradas na pasta de documentação (se adicionadas ao repositório).  
-*(Opcional: você pode criar uma pasta `/assets` e colocar prints lá.)*
-
----
-
-## 📌 Roadmap (ideias futuras)
-
-- Aba de **resumo geral** (checklist do IR e progresso de preenchimento)
-- Campo para **ano-base** e controle por ano
-- Exportação/relatório em PDF (resumo para consulta)
-- Aba de **bens e direitos** + **dívidas e ônus**
-- Central de anexos por categoria (com links)
-
----
-
-**Ryan**  
-Projeto desenvolvido para facilitar a organização do Imposto de Renda e fortalecer o portfólio com automações e boas práticas em Excel.
